@@ -1,2 +1,2 @@
 # calachi
-A cakachi project
+A calachi project
